@@ -9,10 +9,15 @@ RememberMe is a daily dhikr tracker that allows users to choose between morning 
 
 ### Citations
 - Built with assistance from [ChatGPT by OpenAI](https://openai.com/chatgpt)
-- Design ideas and UI feedback generated using AI
+- Explaining concepts
+- Writing code snippets and examples
+- Debugging and troubleshooting errors
+- Offering design and architecture advice
+- Guiding on best practices and tooling
+- Helping with documentation and commands
 
 
-- Created by Ayat Adams
+ ### Created by Ayat Adams
 
 
 This is a Next.js project bootstrapped with create-next-app.
