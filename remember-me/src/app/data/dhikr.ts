@@ -1,15 +1,16 @@
-export const morningDhikr = [
-    { text: "SubanAllah", count: 33},
-    { text: "Alhamdulillah", count: 33},
-     { text: "AllahuAkbar", count: 34},
-     { text: "Astagfirullah", count: 100},
-
-];
-
-
-export const eveningDhikr = [
-    { text: "Astagfirullah", count: 100},
-    { text: "Alhamdulillah", count: 3},
-     { text: "Rabi zidnee ilma", count: 3},
-
-];
+export const dhikrData = {
+  morning: [
+    { text: 'SubhanAllah (33x)' },
+    { text: 'Alhamdulillah (33x)' },
+    { text: 'Allahu Akbar (34x)' },
+    { text: 'Astagfirullah (100x)' },
+    
+  ],
+  evening: [
+    { text: 'Alhamdulillah (33x)' },
+    { text: 'Ayatul Kursi' },
+    { text: 'ribi zidnee Ilma (3x)' },
+    { text: 'Astagfirullah (100x)' },
+    
+  ],
+};

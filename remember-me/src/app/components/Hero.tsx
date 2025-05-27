@@ -14,7 +14,7 @@ export default function Hero() {
         Track progress, build streaks, and remember with purpose.
       </p>
       <button className="px-6 py-3 bg-blue-600 text-white rounded-2xl hover:bg-blue-700 transition">
-        Get Started
+        Navigate below to Start
       </button>
     </div>
   );
