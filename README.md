@@ -2,6 +2,12 @@
 
 RememberMe is a daily dhikr tracker that allows users to choose between morning or evening adhkar and complete their daily dhikr in an interactive way.
 
+
+## Video Demo
+
+https://youtu.be/d9SIkbQgad0
+
+
 ### Features
 - Tap to start either Morning or Evening adhkar
 - Great user interface with simple navigation
